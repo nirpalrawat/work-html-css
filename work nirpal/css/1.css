@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo a{
+    padding: 7px 15px;
+    text-decoration: none;
+    font-family: system-ui, -apple-system ;
+    color: rgb(227, 10, 10);
+
+
+
+}
+.nav {
+    background-color: aqua;
+}
+.button{
+    float: right;
+    padding: 1px 20px;
+    margin-right: 20px;
+}
